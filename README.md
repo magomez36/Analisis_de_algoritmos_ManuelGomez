@@ -1,1 +1,1 @@
-# Analisis_de_algoritmos_ManuelGomez
+# Análisis de algoritmos
