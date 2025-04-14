@@ -26,7 +26,7 @@ Los algoritmos pueden clasificarse de diversas maneras según su propósito y la
 ### Algoritmos de multiplicación
 
 #### Multiplicación americana
-Es utilizado tradicionalmente en algunos sistemas educativos, para realizar multiplicaciones en columnas. Este método es parecido a una multiplicacion larga, y a veces se conoce como multiplicación por descomposición o multiplicación por sucesivos pasos. Este método se basa en tomar numeros e ir multiplicandolos de **derecha a izquierda** y se escriben resultados intermedios.
+Es utilizado tradicionalmente en algunos sistemas educativos, para realizar multiplicaciones en columnas. Este método es parecido a una multiplicacion larga, y a veces se conoce como multiplicación por descomposición o multiplicación por sucesivos pasos. Este método se basa en tomar numeros e ir multiplicandolos de derecha a izquierda y se escriben resultados intermedios.
 
 $$
 \begin{aligned}
@@ -44,7 +44,7 @@ $$
 
 #### Multiplicación inglesa 
 
-Es otro método tradicional de multiplicación que se emplea en algunos sistemas educativos. Aunque tiene similitudes con la multiplicación sucesiva americana, existen algunas diferencias clave en la forma en que los números son posicionados. Este método igual al anterior se basa en tomar numeros e ir multiplicandolos pero con la diferencia de ir tomandolos e ir posicionandolos de **izquierda a derecha** .
+Es otro método tradicional de multiplicación que se emplea en algunos sistemas educativos. Aunque tiene similitudes con la multiplicación sucesiva americana, existen algunas diferencias clave en la forma en que los números son posicionados. Este método igual al anterior se basa en tomar numeros e ir multiplicandolos pero con la diferencia de ir tomandolos e ir posicionandolos de izquierda a derecha.
 
 $$
 \begin{aligned}
