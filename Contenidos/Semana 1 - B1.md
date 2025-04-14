@@ -81,6 +81,12 @@ $$
 \end{array}
 $$
 
+La respuesta obtenida es:
+
+$$
+\ 1.234 + 4.936 + 19.744 + 78.976 + 157.952 + 315.904 + 631.808 = 1.210.554 \
+$$
+
 #### Importancia de los algoritmos
 
 En conclusión, un algoritmo no solo debe ser finito, preciso y claro, sino también eficiente, correcto y adaptable. Estas características aseguran que un algoritmo no solo resuelva el problema que se le plantee, sino que lo haga de manera eficaz, comprensible y escalable. La construcción de algoritmos eficientes y robustos es crucial en la informática y la programación, ya que son la base de todo software y sistemas que usamos a diario.
