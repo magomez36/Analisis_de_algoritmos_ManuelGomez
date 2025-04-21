@@ -53,20 +53,3 @@ $$
 $$
 \large = \frac{(k + 1)(k + 2)}{2}
 $$
-
-##### Ejercicio Propuesto
-
-```
-for i = 1; i < n- 1; i = i + 1
-    for j = i + 1; j < n; j = j + 1
-        if (A[i] < A[j])
-            aux = A[i]
-            A[i] = A[j]
-            A[j] = aux
-```
-
-##### Ejercicio Resuelto
-
-```
-
-```
