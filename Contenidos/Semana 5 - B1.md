@@ -16,14 +16,14 @@
 ### 1.
 
 $$
-\normalsize
+\large
 \lim_{n \to \infty} \frac{f(n)}{g(n)} = c \in \mathbb{R}
 $$
 
 Entonces:
 
 $$
-\normalsize
+\large
 \{ \Rightarrow \Bigg\\{
 \begin{array}{l}
 f(n) \in O(g(n)) \qquad f(n) \in \Omega(g(n)) \qquad f(n) \in \Theta(g(n)) \\
