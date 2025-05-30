@@ -1,7 +1,8 @@
+# Taller Semana 2 - Codificación de algoritmo - B1
 
-## Algoritmo Merge (Paso de Fusión)
+### Algoritmo Merge
 
-### Implementación en Java
+#### Codificación en Java
 
 ```java
 public class MergeStep {
@@ -71,7 +72,7 @@ public class MergeStep {
 - L = {2, 5, 8}
 - R = {1, 3, 7}
 
-#### Tabla de seguimiento:
+#### Prueba de escritorio:
 
 | i | j | k | L[i] | R[j] | A[k] antes | A[k] después | Comentario                        |
 |---|---|---|------|------|-------------|---------------|-----------------------------------|
