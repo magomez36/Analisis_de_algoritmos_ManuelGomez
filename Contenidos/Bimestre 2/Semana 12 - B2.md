@@ -13,15 +13,15 @@ $$
 \}
 $$
 
-[imagen 1]
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2012/imagen%201%20-%20Semana%2012.png?raw=true)
 
-#### Ejemplo gráfico 1:
+### Ejemplo gráfico 1:
 
-[imagen 2]
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2012/imagen%202%20-%20Semana%2012.png?raw=true)
 
-#### Ejemplo gráfico 2:
+### Ejemplo gráfico 2:
 
-[imagen 3]
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2012/imagen%203%20-%20Semana%2012.png?raw=true)
 
 ## Pseudocódigo de ordenación
 
@@ -68,15 +68,15 @@ while j < nR
     k = k + 1
 ```
 
-#### Ordenar por fusión 
+### Ordenar por fusión 
 
 - T(n) n elementos
 - Separar T en U y V -> tiempo lineal
 - fusionar(u, V) -> tiempo lineal
 
-[imagen 4]
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2012/imagen%204%20-%20Semana%2012.png?raw=true)
 
-#### Por consiguiente:
+### Por consiguiente:
 
 $$
 t(n) = 2t \left( \frac{n}{2} \right) + g(n)
