@@ -100,13 +100,13 @@ prodedimiento pivote(T[i..j]; var l)
 
 #### Pivote, a la izquierda sublistas menores, y a la derecha la de los mayores
 
-![]()
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2013/imagen%201%20-%20Semana%2013.png?raw=true)
 
 ---
 
 #### Los nodos se concatenan con los pivotes de arriba
 
-![]()
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2013/imagen%202%20-%20Semana%2013.png?raw=true)
 
 $$
 t(n) \in O (n · log n)
