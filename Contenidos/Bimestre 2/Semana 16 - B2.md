@@ -1,7 +1,3 @@
-# Semana 16
+# Semana 8
 
----
-
-## Examen Bimestral
-
----
+## Evaluación bimestral - Segundo bimestre
