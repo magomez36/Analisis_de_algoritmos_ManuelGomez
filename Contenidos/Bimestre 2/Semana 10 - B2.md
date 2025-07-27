@@ -15,6 +15,12 @@ Un **grafo dirigido** \( G \) consiste en un conjunto de **vértices** \( V \) y
   - \( w \) es la **cabeza** del arco.
 - El orden en los arcos importa: \( (v, w) \neq (w, v) \).
 
+![]()
+
+## Representación
+
+![]()
+
 ---
 
 ## Algoritmo de Kruskal
