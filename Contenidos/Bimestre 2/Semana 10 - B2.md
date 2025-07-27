@@ -15,11 +15,11 @@ Un **grafo dirigido** \( G \) consiste en un conjunto de **vértices** \( V \) y
   - \( w \) es la **cabeza** del arco.
 - El orden en los arcos importa: \( (v, w) \neq (w, v) \).
 
-![]()
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2010/imagen%201%20-%20Semana%2010.png?raw=true)
 
 ## Representación
 
-![]()
+![](https://github.com/magomez36/Analisis_de_algoritmos_ManuelGomez/blob/main/Contenidos/Recursos/Recursos%20Semana%2010/imagen%202%20-%20Semana%2010.png?raw=true)
 
 ---
 
